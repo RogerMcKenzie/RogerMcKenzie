@@ -1,6 +1,6 @@
 # Hi, I'm Roger 👋
 
-I'm a **Computer Science student and African American Studies minor at the University of Florida**. I enjoy bridging the gap between complex backend logic and intuitive user experiences. When I am not coding or studying I also like to make content. 
+I'm a **Computer Science student at the University of Florida**. I enjoy bridging the gap between complex backend logic and intuitive user experiences. When I am not coding or studying I also like to make content. 
 
 * **Education:** BS in Computer Science @ UF | Minor in African American Studies
 * **Experience:** Incoming SDE Intern @ Amazon | Social Media and Events Coordinator @ ColorStack UF

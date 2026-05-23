@@ -3,7 +3,7 @@
 I'm a **Computer Science student at the University of Florida**. I enjoy bridging the gap between complex backend logic and intuitive user experiences. When I am not coding or studying I also like to make content. 
 
 * **Education:** BS in Computer Science @ UF | Minor in African American Studies
-* **Experience:** Incoming 2x SDE Intern @ Amazon | Social Media and Events Coordinator @ ColorStack UF
+* **Experience:** 2x SDE Intern @ Amazon | Social Media and Events Coordinator @ ColorStack UF
 * **Currently Building:** AI-powered tools like *ResMatch* and *SnapCal*
 
 ### About Me

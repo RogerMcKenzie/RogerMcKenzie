@@ -19,4 +19,4 @@ I'm a **Computer Science student at the University of Florida** building full-st
 
 ### 📜 Certifications
 
-AWS Certified Cloud Practitioner · AWS Certified AI Practitioner
+AWS Solutions Architect · Certified Cloud Practitioner · AWS Certified Developer · AWS Certified AI Practitioner

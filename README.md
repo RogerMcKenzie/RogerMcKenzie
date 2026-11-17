@@ -3,7 +3,7 @@
 I'm a **Computer Science student at the University of Florida** building full-stack apps and AI tools.
 
 - **Education:** BS in Computer Science @ UF
-- **Experience:** Incoming SDE Intern | Previously 2x SDE Intern @ Amazon | Lead Developer @ The Agency at UF
+- **Experience:** Incoming SDE Intern @ Amazon | Lead Developer @ The Agency at UF
 - **Building:** Studio Stack and AI-powered research tools
 
 ### 🛠 Tech Stack

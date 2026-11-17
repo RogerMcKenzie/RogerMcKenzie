@@ -4,7 +4,7 @@ I'm a **Computer Science student at the University of Florida** building full-st
 
 - **Now:** Incoming SDE Intern @ Amazon | Lead Developer @ The Agency at UF
 - **Previously:** 2x SDE Intern @ Amazon
-- - **Education:** BS in Computer Science @ UF
+- **Education:** BS in Computer Science @ UF
 
 ### 🛠 Tech Stack
 

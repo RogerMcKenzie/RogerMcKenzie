@@ -5,7 +5,7 @@ I'm a **Computer Science student at the University of Florida**. I enjoy bridgin
 - **Education:** BS in Computer Science @ UF | Minor in African American Studies
 - **Experience:** 2x SDE Intern @ Amazon (2025 & 2026) | Lead Developer @ The Agency at UF
 - **Currently Building:** Studio Stack, AI-powered research resourcing tools, and my camera-inspired personal portfolio
-- **Outside of Code:** Photography, tech videos, cooking, climbing, gaming, and tinkering with my home server
+- **Outside of Code:** Photography, tech videos, cooking, gaming, and tinkering with my home server
 
 ### 🛠 Tech Stack
 

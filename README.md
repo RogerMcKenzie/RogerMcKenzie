@@ -1,7 +1,5 @@
 # Hi, I'm Roger 👋
 
-I'm a **Computer Science student at the University of Florida** building full-stack apps and AI tools.
-
 - **Now:** Incoming SDE Intern @ Amazon | Lead Developer @ The Agency at UF
 - **Previously:** 2x SDE Intern @ Amazon
 
